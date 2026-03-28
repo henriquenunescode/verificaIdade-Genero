@@ -1,0 +1,61 @@
+body {
+    background: linear-gradient(to right, rgb(0, 0, 0), rgb(115, 115, 115));
+}
+
+h1 {
+    color: rgb(230, 230, 230);
+    text-align: center;
+    margin-bottom: 0px;
+    background: linear-gradient(to left, rgb(24, 24, 24), rgb(106, 106, 106));
+}
+
+section {
+    background: rgb(243, 243, 243);
+    width: 550px;
+    padding: 30px;
+    border-radius: 20px;
+    margin: auto;
+    margin-top: 20px;
+    text-align: center;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    box-shadow: 10px 10px 20px black;
+}
+
+#btnVerificar {
+    background: rgb(49, 49, 49);
+    box-shadow: 5px 5px 10px black;
+    color: white;
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+#div1 {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+#div2 {
+    margin-top: 20px;
+    font-style: italic;
+    font-weight: lighter;
+}
+
+img {
+    margin-top: 20px;
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
+
+footer {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+    font-style: italic;
+    color: white;
+}
